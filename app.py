@@ -5,8 +5,8 @@ import streamlit as st
 st.set_page_config(page_title="Quản lý điểm sinh viên", page_icon="🎓", layout="wide")
 
 # Thay bằng thông tin của bạn
-HO_TEN_NGUOI_TAO = "[Nhập họ tên của bạn]"
-MSSV_NGUOI_TAO = "[Nhập MSSV của bạn]"
+HO_TEN_NGUOI_TAO = "[VŨ NAM HẢI]"
+MSSV_NGUOI_TAO = "033208013470]"
 
 # 1. Dữ liệu 10 sinh viên
 raw_data = {
