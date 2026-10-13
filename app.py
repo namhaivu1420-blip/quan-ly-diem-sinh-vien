@@ -12,9 +12,9 @@ MSSV_NGUOI_TAO = "033208013470]"
 raw_data = {
     "Họ tên": ["Nguyễn Văn An", "Trần Thị Bình", "Lê Hoàng Cường", "Phạm Thị Dung", "Hoàng Tiến Dũng",
         "Ngô Thị Phương", "Vũ Đình Giang", "Đỗ Thị Hoa", "Bùi Văn Hùng", "Trương Thị Linh"],
-    "Chuyên cần": [9, 8, 10, 6, 7, 9, 8, 5, 10, 7],
-    "Giữa kỳ": [8, 7, 9, 5, 6, 8, 7, 4, 9, 6],
-    "Cuối kỳ": [9, 8, 9, 4, 7, 8, 6, 3, 10, 7],
+    "Chuyên cần": [9.0, 8.0, 10.0, 6.0, 7.0, 9.0, 8.0, 5.0, 10.0, 7.0],
+    "Giữa kỳ": [8.5, 7.0, 6.5, 9.0, 5.5, 8.0, 9.5, 7.5, 6.0, 8.5],
+    "Cuối kỳ": [9.0, 8.0, 9.0, 4.0, 7.0, 8.0, 6.0, 3.0, 10.0, 7.0],
 }
 df = pd.DataFrame(raw_data)
 
